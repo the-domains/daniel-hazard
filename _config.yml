@@ -1,4 +1,4 @@
-name: null
+name: Daniel Hazard
 favicon: null
 layout_spectrum: 0.9013813671190292
 typography_spectrum: 0.11033988674171269
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#271918'
+    - '#c49396'
+    - '#f1bcc4'
+    - '#efeae6'
+    - '#7f5958'
   brandStrength: 0.7296022106893361
   lightness: 0.4476818984840065
   saturation: 0.15735395369119942
