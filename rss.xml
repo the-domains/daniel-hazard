@@ -4,7 +4,7 @@
         <description><![CDATA[Daniel Hazard]]></description>
         <link>https://thegrid.ai/daniel-hazard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 15:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 15:24:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/daniel-hazard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Monarch]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/daniel-hazard/monarch/index.html</link>
             <guid isPermaLink="false">c7c12988-6903-49a8-8655-c5b2f958ad20</guid>
             <pubDate>Tue, 20 Oct 2015 14:06:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Golden-crowned Kinglet]]></title>
+            <description><![CDATA[<article><h1>Golden-crowned Kinglet</h1><p>at Erie St. Cemetary</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19f0e934-2a5a-4078-8c47-82bfe04aa3e0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/daniel-hazard/eec34d69-e99f-4bd7-b7f7-bd525699e015/index.html</link>
+            <guid isPermaLink="false">eec34d69-e99f-4bd7-b7f7-bd525699e015</guid>
+            <pubDate>Tue, 20 Oct 2015 15:24:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
